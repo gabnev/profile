@@ -54,6 +54,7 @@ button:hover {
   padding: 40px;
   margin: 20px auto;
   box-shadow: 0px 50px 50px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
   text-align: center;
 }
 
